@@ -1,0 +1,86 @@
+a {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+.RedClass {
+    background-color: red;
+}
+
+#YellowID {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: blue;
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+    
+}
+
+h2 {
+    background-color: blue;
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h3 {
+    background-color: blue;
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h4 { 
+    background-color: blue;
+    color: orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.customtext {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxmodel {
+    border: 25px solid #000000 ;
+    padding: 20px 20px 20px 20px background-color #ffff00;
+    margin: 10px 10px 10px 10px ;
+/*          TOP  RGHT BOTM LEFT */
+}
+
+.imgbox {
+    border: 25px solid #000000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #ffff00;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+body {
+    background-color: #d5d1d1;
+    background-image: url(Unspoken_Liberty.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}   
+
+
+
+   
+
